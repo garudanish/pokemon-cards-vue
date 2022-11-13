@@ -1,0 +1,12 @@
+{
+  "id": "swsh1-190",
+  "name": "Morpeko V",
+  "supertype": "Pokémon",
+  "subtypes": ["Basic", "V"],
+  "number": "190",
+  "rarity": "Rare Ultra",
+  "images": {
+    "small": "https://images.pokemontcg.io/swsh1/190.png",
+    "large": "https://images.pokemontcg.io/swsh1/190_hires.png"
+  }
+}
